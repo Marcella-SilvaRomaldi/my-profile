@@ -1,0 +1,82 @@
+body{
+	background-color: rgb(242,235, 226);
+	color: rgb(70, 40, 50);
+	font-family: arial;
+}
+
+
+h1 {
+	color: rgb(70, 40, 50);
+	font-family: Helvetica;
+	font-weight: 800;
+	letter-spacing: 10px ;
+	font-size: 40px;
+	text-align: center;
+}
+
+a:hover{
+	color: #D57B9F;
+}
+
+img{
+	display: block;
+	margin: auto;
+}
+
+.container{
+	width: 700px;
+	margin: 80px auto;
+
+
+
+
+.card-pink{
+	background: rgb(222,199,182);
+	padding: 60px;
+	margin: 60px ;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0.3);
+	border-radius: 10px;
+	text-align: center;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+
+.button-pink{
+	background-color: rgb(70, 40, 50) ;
+	color: whitesmoke;
+	padding: 15px 15px;
+	border-radius: 10px;
+}
+
+.button-pink:hover{
+    background-color: #D57B9F;
+    color: rgb(70, 40, 50)
+}
+
+.list-horizontal{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-horizontal li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-horizontal i {
+	font-size: 50px;
+	color: whitesmoke;
+}
+
+.list-horizontal i:hover {
+	color: #D57B9F;
+}
+
+#introduction p {
+	margin-bottom: 40px;
+}
+
+
+
